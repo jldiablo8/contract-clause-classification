@@ -8,7 +8,8 @@ This dataset contains excerpts of legal contract clauses paired with their corre
 
 ## Dataset Source
 - Originates from the CUAD (Contract Understanding Atticus Dataset) provided by The Atticus Project.
-- Available at: https://huggingface.co/datasets/the_atticus_project/cuad
+- Available at CUAD Dataset GitHub Repository: [https://github.com/TheAtticusProject/cuad](https://github.com/TheAtticusProject/cuad)
+
 
 ## Dataset Version
 - Version: 1.0
