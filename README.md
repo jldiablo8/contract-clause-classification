@@ -20,12 +20,11 @@ A machine learning pipeline to classify legal contract clauses using classical M
 
 ## Dataset
 
-- **Filename**: `contract_clauses.csv`
-- **Columns**:
-  - `clause_text`: The raw text of a clause
-  - `clause_type`: The category label (target)
+Due to the size of the dataset, **large data files are not hosted directly on GitHub**. Instead, the dataset used in this project can be accessed from the official GitHub repository below:
 
-> Note: Ensure the dataset is placed in the `data/` directory.
+- CUAD Dataset GitHub Repository: [https://github.com/TheAtticusProject/cuad](https://github.com/TheAtticusProject/cuad)
+
+Please follow the instructions in the notebooks and the CUAD repository to download and preprocess the dataset.
 
 ---
 
